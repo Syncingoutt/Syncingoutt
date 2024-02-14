@@ -1,12 +1,11 @@
 # :boy: Sync
 
-**`Web Developer`**
+**`Web Developer`**<a href="https://www.linkedin.com/in/lukas-rutkauskas-b70ab628b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 I'm an IT student with hard work and dedication, ready to put in the endless hours to learn, improve and create amazing websites.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1800&color=C5DAF7&random=false&width=435&lines=Wake+up+%7C+Code+%7C+Drink+coffee+%7C+Repeat;Always+learning+something+new!)](https://git.io/typing-svg)
 <p align="center">
-  <a href="https://www.linkedin.com/in/lukas-rutkauskas-b70ab628b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1800&color=C5DAF7&random=false&width=435&lines=Wake+up+%7C+Code+%7C+Drink+coffee+%7C+Repeat;Always+learning+something+new!)](https://git.io/typing-svg)
 </p>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
